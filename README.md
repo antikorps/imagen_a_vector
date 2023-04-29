@@ -1,5 +1,5 @@
 # Imagen a vector
-Automatiza la transformación de imágenes en jpg y png a SVG a través del servicio de vectorización que ofrece la web de [Adobe Express](https://www.adobe.com/es/express/feature/image/convert/svg)./
+Automatiza la transformación de imágenes en jpg y png a SVG a través del servicio de vectorización que ofrece la web de [Adobe Express](https://www.adobe.com/es/express/feature/image/convert/svg).
 
 
 ## Funcionamiento
