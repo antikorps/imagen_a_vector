@@ -3,8 +3,8 @@ Automatiza la transformación de imágenes en jpg y png a SVG a través del serv
 
 
 ## Funcionamiento
-Descargar de la carpeta bin el binario correspondiente al sistema operativo que se vaya a utilizar. Asegurar que el archivo dispone de permisos de ejecución.\
-Argumentos:\
+Descargar de la carpeta bin el binario correspondiente al sistema operativo que se vaya a utilizar. Asegurar que el archivo dispone de permisos de ejecución.
+Argumentos:
 - **-ruta**: obligatorio, ruta completa al archivo txt con las rutas completas línea a línea de cada imagen que quiere procesarse.
 - **-espera**: opcional, segundos de espera antes de una nueva petición de transformación.
 - **-apikey**: opcional, valor que se incorpora en las cabeceras de la petición con la clave "X-Api-Key" y valida la petición
